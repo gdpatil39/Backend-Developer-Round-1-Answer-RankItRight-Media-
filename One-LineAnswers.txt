@@ -1,0 +1,9 @@
+A. What is reverse-i-search in a Linux terminal?
+:->Use reverse-i-search to find past commands
+B. How do you list out the hidden directories using Linux command line tool?
+:->ls-a
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+:->I am  comfortable with using Linux-based OS like Ubuntu, Centos. I am work on it in my CDAC for 6 month .
+D. Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+:->yes while learning in Advance java i host application on Apache.
